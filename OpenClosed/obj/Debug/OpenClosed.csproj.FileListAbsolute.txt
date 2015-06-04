@@ -1,0 +1,6 @@
+c:\users\secakir\documents\visual studio 2012\projects\SolidPrinciples\OpenClosed\bin\Debug\OpenClosed.exe.config
+c:\users\secakir\documents\visual studio 2012\projects\SolidPrinciples\OpenClosed\obj\Debug\OpenClosed.csprojResolveAssemblyReference.cache
+c:\users\secakir\documents\visual studio 2012\projects\SolidPrinciples\OpenClosed\bin\Debug\OpenClosed.exe
+c:\users\secakir\documents\visual studio 2012\projects\SolidPrinciples\OpenClosed\bin\Debug\OpenClosed.pdb
+c:\users\secakir\documents\visual studio 2012\projects\SolidPrinciples\OpenClosed\obj\Debug\OpenClosed.exe
+c:\users\secakir\documents\visual studio 2012\projects\SolidPrinciples\OpenClosed\obj\Debug\OpenClosed.pdb

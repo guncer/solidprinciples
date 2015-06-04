@@ -1,0 +1,6 @@
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\HelloWorldExample\bin\Debug\HelloWorldExample.exe.config
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\HelloWorldExample\bin\Debug\HelloWorldExample.exe
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\HelloWorldExample\bin\Debug\HelloWorldExample.pdb
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\HelloWorldExample\obj\Debug\HelloWorldExample.csprojResolveAssemblyReference.cache
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\HelloWorldExample\obj\Debug\HelloWorldExample.exe
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\HelloWorldExample\obj\Debug\HelloWorldExample.pdb

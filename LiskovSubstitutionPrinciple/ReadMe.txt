@@ -1,0 +1,1 @@
+﻿http://dotnetcodr.com/2013/08/19/solid-design-principles-in-net-the-liskov-substitution-principle/

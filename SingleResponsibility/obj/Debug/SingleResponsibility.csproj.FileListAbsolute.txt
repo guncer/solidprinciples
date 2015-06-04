@@ -1,0 +1,6 @@
+c:\users\secakir\documents\visual studio 2012\projects\SolidPrinciples\SingleResponsibility\bin\Debug\SingleResponsibility.exe.config
+c:\users\secakir\documents\visual studio 2012\projects\SolidPrinciples\SingleResponsibility\obj\Debug\SingleResponsibility.csprojResolveAssemblyReference.cache
+c:\users\secakir\documents\visual studio 2012\projects\SolidPrinciples\SingleResponsibility\bin\Debug\SingleResponsibility.exe
+c:\users\secakir\documents\visual studio 2012\projects\SolidPrinciples\SingleResponsibility\bin\Debug\SingleResponsibility.pdb
+c:\users\secakir\documents\visual studio 2012\projects\SolidPrinciples\SingleResponsibility\obj\Debug\SingleResponsibility.exe
+c:\users\secakir\documents\visual studio 2012\projects\SolidPrinciples\SingleResponsibility\obj\Debug\SingleResponsibility.pdb

@@ -1,0 +1,1 @@
+﻿http://dotnetcodr.com/2013/08/15/solid-design-principles-in-net-the-open-closed-principle/

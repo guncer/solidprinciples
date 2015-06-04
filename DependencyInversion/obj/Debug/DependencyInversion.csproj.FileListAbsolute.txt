@@ -1,0 +1,6 @@
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\DependencyInversion\bin\Debug\DependencyInversion.exe.config
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\DependencyInversion\bin\Debug\DependencyInversion.exe
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\DependencyInversion\bin\Debug\DependencyInversion.pdb
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\DependencyInversion\obj\Debug\DependencyInversion.csprojResolveAssemblyReference.cache
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\DependencyInversion\obj\Debug\DependencyInversion.exe
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\DependencyInversion\obj\Debug\DependencyInversion.pdb

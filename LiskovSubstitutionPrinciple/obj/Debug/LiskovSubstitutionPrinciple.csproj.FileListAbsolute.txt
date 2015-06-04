@@ -1,0 +1,6 @@
+c:\users\secakir\documents\visual studio 2012\projects\SolidPrinciples\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe.config
+c:\users\secakir\documents\visual studio 2012\projects\SolidPrinciples\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csprojResolveAssemblyReference.cache
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.pdb
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.pdb

@@ -1,0 +1,1 @@
+﻿http://dotnetcodr.com/2013/08/12/solid-design-principles-in-net-the-single-responsibility-principle/

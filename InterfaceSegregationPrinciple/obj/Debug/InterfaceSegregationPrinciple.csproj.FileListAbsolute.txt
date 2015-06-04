@@ -1,0 +1,6 @@
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe.config
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.pdb
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csprojResolveAssemblyReference.cache
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\secakir\Documents\Visual Studio 2012\Projects\SolidPrinciples\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.pdb
